@@ -10,7 +10,7 @@ const PG = promisify(glob);
  * loads them as slash/app commands. It also loads context menu commands.
  *
  * @param {Client} client
- * @licence GPL-v.3
+ * @licence GPL-3.0
  */
 module.exports = async (client) => {
     const Table = new Ascii("Discord Commands Loaded"); // create an ASCII table

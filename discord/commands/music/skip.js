@@ -7,7 +7,7 @@ module.exports = {
     /**
      * @param {CommandInteraction} interaction
      * @param {Client} client
-     * @licence GPL-v.3
+     * @licence GPL-3.0
      */
     async execute(interaction, client) {
         const voiceChannel = interaction.member.voice.channel;

@@ -3,7 +3,7 @@ module.exports = {
     once: "true",
     /**
      * @param {Client} client
-     * @licence GPL-v.3
+     * @licence GPL-3.0
      */
     execute(client) {
         client.user.setActivity("Hentai", {type: "WATCHING"})

@@ -4,7 +4,7 @@
  *
  * @author Stefan Cucoranu <elpideus@gmail.com>
  * @version 1.0.0
- * @licence GPL-v.3
+ * @licence GPL-3.0
  */
 
 // TODO: Make this fully random.

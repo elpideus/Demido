@@ -6,7 +6,7 @@ module.exports = {
     context: true,
     /**
      * @param {ContextMenuInteraction} interaction
-     * @licence GPL-v.3
+     * @licence GPL-3.0
      */
     async execute(interaction) {
         const target = await interaction.guild.members.fetch(interaction.targetId);

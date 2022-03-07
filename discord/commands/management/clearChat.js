@@ -15,7 +15,7 @@ module.exports = {
      * Clears the chat. Deletes the messages from the channel where the command gets used in.
      *
      * @param {CommandInteraction} interaction
-     * @licence GPL-v.3
+     * @licence GPL-3.0
      */
     async execute(interaction) {
         interaction.reply({content: "The messages have been deleted successfully!", ephemeral: true});
